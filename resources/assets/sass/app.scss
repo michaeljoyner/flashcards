@@ -1,0 +1,8 @@
+// @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "variables/colours";
+@import "variables/typography";
+
+@import "front/partials/reset";
+@import "front/partials/navbar";
+@import "front/partials/flashcard";
+@import "front/partials/flashcard-viewer";

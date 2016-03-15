@@ -1,0 +1,9 @@
+<html>
+<head>
+    <title>Example</title>
+</head>
+<body>
+    <p>This is the body <span class="lesson_translate_parts" eng="you" py="ni" trad="ㄘ">pig</span><p>
+    <p>This is the body <span class="lesson_translate_parts" eng="we" py="women" trad="ㄕ">dog</span><p>
+    <p>This is the body <span class="lesson_translate_parts" eng="they" py="tamen" trad="ㄙㄨㄜ">cat</span><p>
+</body>

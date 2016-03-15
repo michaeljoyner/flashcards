@@ -1,0 +1,46 @@
+.flashcard {
+  width: 90%;
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: $bodyfont;
+  text-align: center;
+
+  .flashcard-eng {
+    color: $mid_grey;
+    font-size: 1.2em;
+    font-weight: 300;
+  }
+
+  .flashcard-py {
+    color: $primary_pink;
+    font-weight: 300;
+    font-size: 1.5em;
+    font-family: serif;
+  }
+
+  .flashcard-trad {
+    color: $primary_dark;
+    font-size: 2em;
+    font-family: $zhongfont;
+  }
+}
+
+.flashcard-viewer.shrink {
+  .flashcard {
+    animation: fadeInAndOut .4s linear 1 forwards;
+  }
+}
+
+@keyframes fadeInAndOut {
+  0%  { opacity: 1;}
+  10% { opacity: .5;}
+  20% { opacity: .0;}
+  //30% { opacity: .4;}
+  //40% { opacity: .2;}
+  //50% { opacity: 0;}
+  //60% { opacity: .2;}
+  //70% { opacity: .4;}
+  //80% { opacity: .0;}
+  90% { opacity: .5;}
+  100% { opacity: 1;}
+}

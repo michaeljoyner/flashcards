@@ -1,0 +1,23 @@
+.flashcard-viewer {
+
+  .next-btn {
+    position: fixed;
+    bottom: 8vh;
+    left: 5vw;
+    width: 90vw;
+    height: 32px;
+    border: 2px solid $primary_pink;
+    background: transparent;
+    font-family: $bodyfont;
+    line-height: 23px;
+    font-size: 1em;
+    color: $primary_pink;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+
+    &:focus {
+      outline: none;
+    }
+  }
+}

@@ -1,0 +1,86 @@
+html {
+  box-sizing: border-box; }
+
+*, *:before, *:after {
+  box-sizing: inherit; }
+
+body {
+  margin: 0;
+  padding: 0; }
+
+a, a:visited, a:focus, a:hover {
+  text-decoration: none;
+  color: inherit; }
+
+.main-nav {
+  width: 100%;
+  height: 50px;
+  background: #fb1655; }
+
+.flashcard {
+  width: 90%;
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: "Source Sans Pro", sans-serif;
+  text-align: center; }
+  .flashcard .flashcard-eng {
+    color: #8a8a8a;
+    font-size: 1.2em;
+    font-weight: 300; }
+  .flashcard .flashcard-py {
+    color: #fb1655;
+    font-weight: 300;
+    font-size: 1.5em;
+    font-family: serif; }
+  .flashcard .flashcard-trad {
+    color: #1b0224;
+    font-size: 2em;
+    font-family: "Noto Sans", sans-serif; }
+
+.flashcard-viewer.shrink .flashcard {
+  -webkit-animation: fadeInAndOut .4s linear 1 forwards;
+  animation: fadeInAndOut .4s linear 1 forwards; }
+
+@-webkit-keyframes fadeInAndOut {
+  0% {
+    opacity: 1; }
+  10% {
+    opacity: .5; }
+  20% {
+    opacity: .0; }
+  90% {
+    opacity: .5; }
+  100% {
+    opacity: 1; } }
+
+@keyframes fadeInAndOut {
+  0% {
+    opacity: 1; }
+  10% {
+    opacity: .5; }
+  20% {
+    opacity: .0; }
+  90% {
+    opacity: .5; }
+  100% {
+    opacity: 1; } }
+
+.flashcard-viewer .next-btn {
+  position: fixed;
+  bottom: 8vh;
+  left: 5vw;
+  width: 90vw;
+  height: 32px;
+  border: 2px solid #fb1655;
+  background: transparent;
+  font-family: "Source Sans Pro", sans-serif;
+  line-height: 23px;
+  font-size: 1em;
+  color: #fb1655;
+  text-align: center;
+  margin: 0 auto;
+  display: block; }
+  .flashcard-viewer .next-btn:focus {
+    outline: none; }
+
+/*# sourceMappingURL=app.css.map */

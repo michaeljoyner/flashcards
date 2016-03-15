@@ -1,0 +1,7 @@
+<html>
+<head>
+    <title>Example</title>
+</head>
+<body>
+    <p>This is the body<p>
+</body>

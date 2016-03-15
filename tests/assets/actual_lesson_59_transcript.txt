@@ -1,0 +1,923 @@
+
+<!doctype html>
+<html class="no-js" lang="en-US" >
+	<head>
+		<meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+
+
+          <meta property="og:image" content="http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/images/clo-icon-fb.png" />
+
+
+		<title>  Lesson 059: Complete</title>
+
+		<link rel="stylesheet" href="http://www.chineselearnonline.com/wp-content/themes/clo/css/foundation.css" />
+
+		<link rel="icon" href="http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/icons/favicon.ico" type="image/x-icon">
+		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/icons/apple-touch-icon-144x144-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/icons/apple-touch-icon-114x114-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/icons/apple-touch-icon-72x72-precomposed.png">
+		<link rel="apple-touch-icon-precomposed" href="http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/icons/apple-touch-icon-precomposed.png">
+
+		<link rel='stylesheet' id='mediaelement-css'  href='http://www.chineselearnonline.com/wp-includes/js/mediaelement/mediaelementplayer.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css'  href='http://www.chineselearnonline.com/wp-includes/js/mediaelement/wp-mediaelement.css' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://www.chineselearnonline.com/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='thickbox-css'  href='http://www.chineselearnonline.com/wp-includes/js/thickbox/thickbox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bbp-default-css'  href='http://www.chineselearnonline.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='bp-mentions-css-css'  href='http://www.chineselearnonline.com/wp-content/plugins/buddypress/bp-activity/css/mentions.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='bp-legacy-css-css'  href='http://www.chineselearnonline.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/css/buddypress.min.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='lesson_base-css'  href='http://www.chineselearnonline.com/wp-content/plugins/clo/css/lesson.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tiptip-css'  href='http://www.chineselearnonline.com/wp-content/plugins/clo/css/tipTip.css' type='text/css' media='all' />
+<link rel='stylesheet' id='oime-css'  href='http://www.chineselearnonline.com/wp-content/plugins/clo/css/ime.css' type='text/css' media='all' />
+<link rel='stylesheet' id='miniPlayer-css'  href='http://www.chineselearnonline.com/wp-content/plugins/clo/css/miniplayer.css' type='text/css' media='all' />
+<link rel='stylesheet' id='jCountDown-css'  href='http://www.chineselearnonline.com/wp-content/plugins/clo/css/jquery.countdown.css' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://www.chineselearnonline.com/wp-content/plugins/contact-form-7/includes/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='badgeos-single-css'  href='http://www.chineselearnonline.com/wp-content/plugins/badgeos/css/badgeos-single.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/powerpress/player.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/themes/clo/js/vendor/jquery.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/themes/clo/js/vendor/modernizr.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/themes/clo/js/vendor/jquery.sticky-kit.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/themes/clo/js/vendor/responsive-tables.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_Confirm = {"are_you_sure":"Are you sure?"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/buddypress/bp-core/js/confirm.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/buddypress/bp-core/js/jquery-query.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/buddypress/bp-core/js/jquery-cookie.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/buddypress/bp-core/js/jquery-scroll-to.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var BP_DTheme = {"accepted":"Accepted","close":"Close","comments":"comments","leave_group_confirm":"Are you sure you want to leave this group?","mark_as_fav":"Favorite","my_favs":"My Favorites","rejected":"Rejected","remove_fav":"Remove Favorite","show_all":"Show all","show_all_comments":"Show all comments for this thread","show_x_comments":"Show all %d comments","unsaved_changes":"Your profile has unsaved changes. If you leave the page, the changes will be lost.","view":"View"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.min.js'></script>
+
+	<script type="text/javascript">var ajaxurl = 'http://www.chineselearnonline.com/wp-admin/admin-ajax.php';</script>
+
+<script type="text/javascript"><!--
+function powerpress_pinw(pinw){window.open('http://www.chineselearnonline.com/?powerpress_pinw='+pinw, 'PowerPressPlayer','toolbar=0,status=0,resizable=1,width=460,height=320');	return false;}
+powerpress_url = 'http://www.chineselearnonline.com/wp-content/plugins/powerpress/';
+//-->
+</script>
+
+<!-- Subscribe Sidebar widget -->
+<link rel="stylesheet" href="http://www.chineselearnonline.com/wp-content/plugins/subscribe-sidebar/subscribe_sidebar.css" type="text/css" media="screen" />
+	</head>
+	<body class="single single-lessoncontent postid-515 logged-in no-js">
+
+	<div class="off-canvas-wrap" data-offcanvas>
+	<div class="inner-wrap">
+
+
+	<nav class="tab-bar show-for-medium-down">
+		<section class="left-small">
+			<a class="left-off-canvas-toggle menu-icon" href="#"><span></span></a>
+		</section>
+		<section class="middle tab-bar-section">
+
+			<h1 class="title">Chinese Learn Online</h1>
+
+		</section>
+	</nav>
+
+	<aside class="left-off-canvas-menu" aria-hidden="true">
+  <ul id="menu-menu1" class="off-canvas-list"><li class="divider"></li><li id="menu-item-8651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8651"><a href="#">Member Tools</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-8655" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8655"><a href="http://www.chineselearnonline.com/flashcards/">Flashcards</a></li>
+	<li id="menu-item-8654" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8654"><a href="http://www.chineselearnonline.com/word-bank/">Word Bank</a></li>
+	<li id="menu-item-8653" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8653"><a href="http://www.chineselearnonline.com/exercises/">Exercises</a></li>
+	<li id="menu-item-8652" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8652"><a href="http://www.chineselearnonline.com/wordgame/">Char Game</a></li>
+	<li id="menu-item-8656" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8656"><a href="http://www.chineselearnonline.com/export/">Export</a></li>
+	<li id="menu-item-8658" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8658"><a href="http://www.chineselearnonline.com/tone-and-pinyin-practice/">Tone and Pinyin Practice</a></li>
+	<li id="menu-item-8657" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8657"><a href="http://www.chineselearnonline.com/one-on-one/">One on One</a></li>
+</ul>
+</li>
+<li class="divider"></li><li id="menu-item-8641" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8641"><a href="#">Course Outline</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-12484" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12484"><a href="http://www.chineselearnonline.com/course-outline">Level 1</a></li>
+	<li id="menu-item-8647" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8647"><a href="http://www.chineselearnonline.com/course-outline-level-2/">Level 2</a></li>
+	<li id="menu-item-8646" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8646"><a href="http://www.chineselearnonline.com/course-outline-level-3/">Level 3</a></li>
+	<li id="menu-item-8645" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8645"><a href="http://www.chineselearnonline.com/course-outline-level-4/">Level 4</a></li>
+	<li id="menu-item-8644" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8644"><a href="http://www.chineselearnonline.com/course-outline-level-5/">Level 5</a></li>
+	<li id="menu-item-8643" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8643"><a href="http://www.chineselearnonline.com/course-outline-level-6/">Level 6</a></li>
+	<li id="menu-item-8642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8642"><a href="http://www.chineselearnonline.com/course-outline-level-7/">Level 7</a></li>
+</ul>
+</li>
+<li class="divider"></li><li id="menu-item-8631" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8631"><a href="#">Resources</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-8632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8632"><a href="http://www.chineselearnonline.com/apps/">iOS / Android Apps</a></li>
+	<li id="menu-item-8633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8633"><a href="http://www.chineselearnonline.com/feeds/">Bulk Download</a></li>
+	<li id="menu-item-8634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8634"><a href="http://www.chineselearnonline.com/pinyin-conversion-tool/">Pinyin Conversion Tool</a></li>
+	<li id="menu-item-8640" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8640"><a href="/blog/category/learn-chinese-insights/">Learning Insights</a></li>
+	<li id="menu-item-12828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12828"><a href="http://www.chineselearnonline.com/blog/category/podcast/">Learning Insights Podcast</a></li>
+	<li id="menu-item-8636" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8636"><a href="http://www.readtypechinese.com/">Read and Type Chinese</a></li>
+</ul>
+</li>
+<li class="divider"></li><li id="menu-item-8627" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8627"><a href="#">How To Use</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-8628" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8628"><a href="http://www.chineselearnonline.com/how-to-use/">How to Use</a></li>
+	<li id="menu-item-8630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8630"><a href="http://www.chineselearnonline.com/frequently-asked-questions/">Frequently Asked Questions</a></li>
+	<li id="menu-item-8629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8629"><a href="http://www.chineselearnonline.com/teaching-philosophy/">How we teach</a></li>
+</ul>
+</li>
+<li class="divider"></li><li id="menu-item-8626" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8626"><a href="#">About Us</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-8617" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8617"><a href="http://www.chineselearnonline.com/about/">About Us</a></li>
+	<li id="menu-item-8621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8621"><a href="http://www.chineselearnonline.com/contact-us/">Contact Us</a></li>
+	<li id="menu-item-8637" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8637"><a href="/blog/">Blog</a></li>
+	<li id="menu-item-8638" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8638"><a href="/testimonials/">Testimonials</a></li>
+	<li id="menu-item-8619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8619"><a href="http://www.chineselearnonline.com/affiliate/">Affiliate</a></li>
+	<li id="menu-item-8639" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8639"><a href="http://www.chinocastellano.com">Spanish CLO</a></li>
+	<li id="menu-item-8618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8618"><a href="http://www.chineselearnonline.com/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</li>
+</ul>  </aside>
+
+	<div class="top-bar-container contain-to-grid show-for-large-up">
+    <nav class="top-bar" data-topbar role="navigation">
+        <ul class="title-area">
+            <li class="name">
+                <h1>
+                  <a href="http://www.chineselearnonline.com"><img src="http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/images/logo.png"></a>
+                  <span>Chinese Learn Online</span>
+                </h1>
+            </li>
+        </ul>
+        <section class="top-bar-section">
+            <ul id="menu-menu1-1" class="top-bar-menu left"><li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8651"><a href="#">Member Tools</a>
+<ul class="sub-menu dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8655"><a href="http://www.chineselearnonline.com/flashcards/">Flashcards</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8654"><a href="http://www.chineselearnonline.com/word-bank/">Word Bank</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8653"><a href="http://www.chineselearnonline.com/exercises/">Exercises</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8652"><a href="http://www.chineselearnonline.com/wordgame/">Char Game</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8656"><a href="http://www.chineselearnonline.com/export/">Export</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8658"><a href="http://www.chineselearnonline.com/tone-and-pinyin-practice/">Tone and Pinyin Practice</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8657"><a href="http://www.chineselearnonline.com/one-on-one/">One on One</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8641"><a href="#">Course Outline</a>
+<ul class="sub-menu dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12484"><a href="http://www.chineselearnonline.com/course-outline">Level 1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8647"><a href="http://www.chineselearnonline.com/course-outline-level-2/">Level 2</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8646"><a href="http://www.chineselearnonline.com/course-outline-level-3/">Level 3</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8645"><a href="http://www.chineselearnonline.com/course-outline-level-4/">Level 4</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8644"><a href="http://www.chineselearnonline.com/course-outline-level-5/">Level 5</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8643"><a href="http://www.chineselearnonline.com/course-outline-level-6/">Level 6</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8642"><a href="http://www.chineselearnonline.com/course-outline-level-7/">Level 7</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8631"><a href="#">Resources</a>
+<ul class="sub-menu dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8632"><a href="http://www.chineselearnonline.com/apps/">iOS / Android Apps</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8633"><a href="http://www.chineselearnonline.com/feeds/">Bulk Download</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8634"><a href="http://www.chineselearnonline.com/pinyin-conversion-tool/">Pinyin Conversion Tool</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8640"><a href="/blog/category/learn-chinese-insights/">Learning Insights</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12828"><a href="http://www.chineselearnonline.com/blog/category/podcast/">Learning Insights Podcast</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8636"><a href="http://www.readtypechinese.com/">Read and Type Chinese</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8627"><a href="#">How To Use</a>
+<ul class="sub-menu dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8628"><a href="http://www.chineselearnonline.com/how-to-use/">How to Use</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8630"><a href="http://www.chineselearnonline.com/frequently-asked-questions/">Frequently Asked Questions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8629"><a href="http://www.chineselearnonline.com/teaching-philosophy/">How we teach</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8626"><a href="#">About Us</a>
+<ul class="sub-menu dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8617"><a href="http://www.chineselearnonline.com/about/">About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8621"><a href="http://www.chineselearnonline.com/contact-us/">Contact Us</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8637"><a href="/blog/">Blog</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8638"><a href="/testimonials/">Testimonials</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8619"><a href="http://www.chineselearnonline.com/affiliate/">Affiliate</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8639"><a href="http://www.chinocastellano.com">Spanish CLO</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8618"><a href="http://www.chineselearnonline.com/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</li>
+</ul>            <ul id="menu-authentication" class="top-bar-menu right"><li class="divider"></li><li id="menu-item-12465" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12465"><a href="http://clo2015.chineselearnonline.com/amember/member">Login</a></li>
+<li class="divider"></li><li id="menu-item-12466" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12466"><a href="http://clo2015.chineselearnonline.com/amember/signup">Pricing</a></li>
+</ul>        </section>
+    </nav>
+</div>
+
+<section class="container" role="document">
+	<div class="row">
+	<div class="small-12 large-9 columns" role="main">
+
+  <ul class="breadcrumbs">
+    <li>
+      <a href="http://chineselearnonline.com/course-outline-level-2">
+      Level 2</a>
+    </li>
+    <li class="current"><a href="#">Lesson 059: Complete&nbsp;</a></li>
+  </ul>
+
+
+
+
+		<article class="post-515 lessoncontent type-lessoncontent status-publish hentry user-has-not-earned" id="post-515">
+			<header>
+				<!--<h1 class="entry-title">Lesson 059: Complete</h1>-->
+
+  		  		<ul class="button-group radius left">
+
+  <li>
+    <a href="
+http://www.chineselearnonline.com/lessoncontent/lesson-059-complete/" class="button secondary
+alert">
+  Transcript
+  </a>
+  </li>
+
+  <li>
+    <a href="
+http://www.chineselearnonline.com/lessoncontent/lesson-059-vocabulary/" class="button secondary
+">
+  Vocabulary
+  </a>
+  </li>
+
+  <li>
+    <a href="
+http://www.chineselearnonline.com/activity/lesson/59" class="button secondary
+">
+  Activity
+  </a>
+  </li>
+
+  <li>
+    <a href="
+http://www.chineselearnonline.com/lessoncontent/lesson-059-notes/" class="button secondary
+">
+  Notes
+  </a>
+  </li>
+
+  <li>
+    <a href="
+http://www.chineselearnonline.com/lessoncontent/lesson-059-hints-and-tips/" class="button secondary
+">
+  Hints & Tips
+  </a>
+  </li>
+
+
+
+  <li>
+    <a href="
+http://www.chineselearnonline.com/lessoncontent/clo_059-unit-one-review-ii/" class="button secondary
+">
+    Comments (6)
+    </a>
+  </li>
+  </ul>
+			</header>
+
+
+
+		<div class="entry-content lesson_type_Complete">
+        <h4 class="subheader"></h4>
+
+
+        <a href="http://www.chineselearnonline.com/premium/CLO_059_Vocab.pdf" title="Vocabulary" ><img alt="Vocabulary" title="Vocabulary" src="http://www.chineselearnonline.com/images/pdf.png"></a><a href="http://www.chineselearnonline.com/premium/CLO_059_Comp_P.pdf" title="Complete Pinyin Transcript" ><img alt="Complete Pinyin Transcript" title="Complete Pinyin Transcript" src="http://www.chineselearnonline.com/images/pdf.png"></a><a href="http://www.chineselearnonline.com/premium/CLO_059_Comp_S.pdf" title="Complete Simplified Transcript" ><img alt="Complete Simplified Transcript" title="Complete Simplified Transcript" src="http://www.chineselearnonline.com/images/blue.png"></a><a href="http://www.chineselearnonline.com/premium/CLO_059_Comp_T.pdf" title="Complete Traditional Transcript" ><img alt="Complete Traditional Transcript" title="Complete Traditional Transcript" src="http://www.chineselearnonline.com/images/green.png"></a><a href="http://www.chineselearnonline.com/premium/CLO_059_Comp_E.pdf" title="Complete English translated Transcript" ><img alt="Complete English translated Transcript" title="Complete English translated Transcript" src="http://www.chineselearnonline.com/images/pdf.png"></a><a href="http://www.chineselearnonline.com/premium/CLO_059_Tips.pdf" title="Hints and Tips" ><img alt="Hints and Tips" title="Hints and Tips" src="http://www.chineselearnonline.com/images/pdf.png"></a><a href="http://www.chineselearnonline.com/premium/CLO_Chars_59_S_new.pdf" title="New simplified characters" ><img alt="New simplified characters" title="New simplified characters" src="http://www.chineselearnonline.com/images/blue.png"></a><a href="http://www.chineselearnonline.com/premium/CLO_Chars_59_T_new.pdf" title="New traditional characters" ><img alt="New traditional characters" title="New traditional characters" src="http://www.chineselearnonline.com/images/green.png"></a>
+
+                <hr>
+        <dl class="sub-nav sub-nav-desktop lesson_lang_switch sticky">
+          <dt>Choose a mode:</dt>
+          <dd class="active"><a href="#" class="lesson_lang_switch_link" ref="pinyin">Pinyin</a></dd>
+          <dd><a href="#" class="lesson_lang_switch_link"  ref="simp">Simplified</a></dd>
+          <dd><a href="#" class="lesson_lang_switch_link"  ref="trad">Traditional</a></dd>
+          <dd><a href="#" class="lesson_lang_switch_link"  ref="english">English</a></dd>
+        </dl>
+
+        <!--<div class="sub-nav sub-nav-mobile  sticky">
+        <label>Choose a mode:
+        <select class="lesson_lang_switch_mobile">
+          <option value="pinyin" ref="pinyin">Pinyin</option>
+          <option value="simp" ref="simp">Simplified</option>
+          <option value="trad" ref="trad">Traditional</option>
+          <option value="english" ref="english">English</option>
+        </select>
+        </label>
+        </div>-->
+        <dl class="sub-nav sub-nav-mobile lesson_lang_switch sticky">
+          <dt>Choose a mode:</dt>
+          <dd class="active"><a href="#" class="lesson_lang_switch_link" ref="pinyin">Pinyin</a></dd>
+          <dd><a href="#" class="lesson_lang_switch_link"  ref="simp">Simplified</a></dd>
+          <dd><a href="#" class="lesson_lang_switch_link"  ref="trad">Traditional</a></dd>
+          <dd><a href="#" class="lesson_lang_switch_link"  ref="english">English</a></dd>
+        </dl>
+
+        <hr>
+
+
+
+
+
+        <p>.<br />
+<!--protectcontent--></p>
+<p>Complete transcript for ChineseLearnOnline Lesson 059.</p>
+<p>Listen to lesson:<br />
+
+<audio controls class='lesson_audio'>
+  <source src='http://www.chineselearnonline.com/wp-content/uploads/ChineseLearnOnline_059.mp3' type='audio/mpeg'>
+  Your browser does not support the audio element.
+</audio>
+<br />
+<strong>Move your mouse pointer over any Chinese words or phrases to get a translation.</strong></p>
+<p>Hosts:    Adam Menon / Kirin Yang</p>
+<p>Adam: ChineseLearnOnline.com Lesson 59: Unit 1 Review Part 2</p>
+<p>Hello, I’m Adam and welcome to our Progressive course teaching Mandarin Chinese.  Today’s lesson continues our three-part review of Level One of our series.  In a moment you’ll hear a conversation that uses vocabulary we’ve taught previously.  I’ll then test you to see how much of it you remember.  If you need help with the translations of any of the words in the dialogue, please consult the transcripts available to premium subscribers on our website.</p>
+<p>Yann: <span    color=""   simp="喂" trad="喂" py="Wéi" eng="Hello (on a telephone)" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">喂</span>?<br />
+Cindy: <span    color=""   simp="凯文在家吗" trad="凱文在家嗎" py="Kǎiwén zài jiā ma" eng="Is Kevin at home" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">凯文在家吗</span>?<br />
+Yann: <span    color=""   simp="我是" trad="我是" py="Wǒ shì" eng="This is him" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我是</span>.<br />
+Cindy: <span    color=""   simp="你明天有空吗" trad="你明天有空嗎" py="Nǐ míngtiān yǒu kòng ma" eng="Do you have any free time tomorrow" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">你明天有空吗</span>?  <span    color=""   simp="我想要介绍我的男朋友给你认识" trad="我想要介紹我的男朋友給你認識" py="Wǒ xiǎng yào jièshào wǒde nánpéngyǒu gěi nǐ rènshì" eng="I want to introduce my boyfriend to you" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我想要介绍我的男朋友给你认识</span>.<br />
+Yann:  <span    color=""   simp="当然好啊" trad="當然好啊" py="Dāngrán hǎo a" eng="Of course that’s okay" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">当然好啊</span>.  <span    color=""   simp="他叫什么名字" trad="他叫什麼名字" py="Tā jiào shénme míngzi" eng="What&#8217;s his name" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">他叫什么名字</span>?<br />
+Cindy: <span    color=""   simp="他叫大卫" trad="他叫大衛" py="Tā jiào Dàwèi" eng="His name is David" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">他叫大卫</span>.  <span    color=""   simp="那我们去那家新的日本餐厅吃饭" trad="那我們去那家新的日本餐廳吃飯" py="Nà wǒmen qù nà jiā xīnde Rìběn cāntīng chīfàn" eng="Then let’s go eat at that Japanese restaurant" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">那我们去那家新的日本餐厅吃饭</span>.  <span    color=""   simp="好不好" trad="好不好" py="Hǎo bù hǎo" eng="Is that okay" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">好不好</span>?<br />
+Yann: <span    color=""   simp="好啊" trad="好啊" py="Hǎo a" eng="Okay" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">好啊</span>.  <span    color=""   simp="几点" trad="幾點" py="Jǐ diǎn" eng="What time" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">几点</span>?<br />
+Cindy: <span    color=""   simp="下午两点怎么样" trad="下午兩點怎麼樣" py="Xiàwǔ liǎng diǎn zěnme yàng" eng="How about at 2 pm" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">下午两点怎么样</span>?<br />
+Yann: <span    color=""   simp="可以" trad="可以" py="Kěyǐ" eng="Okay" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">可以</span>.  <span    color=""   simp="明天见" trad="明天見" py="Míngtiān jiàn" eng="See you tomorrow" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">明天见</span>.</p>
+<p>Adam: Alright, so let’s see again how much of this you understood.  Try and translate the following into Chinese.  Keep in mind that this is a telephone conversation.</p>
+<p>Hello?</p>
+<p>Kirin: <span    color=""   simp="喂" trad="喂" py="Wéi" eng="Hello (on a telephone)" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">喂</span>?</p>
+<p>Adam: “May I ask, is Sally at home?”  Now for Sally, use the Chinese equivalent:</p>
+<p>Kirin: <span    color=""   simp="莎莉" trad="莎莉" py="Shālì" eng="Sally" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">莎莉</span>.</p>
+<p>Adam: So again, “May I ask, is Sally at home?”</p>
+<p>Kirin: <span    color=""   simp="请问，莎莉在家吗" trad="請問，莎莉在家嗎" py="Qǐngwèn, Shālì zài jiā ma" eng="May I ask, is Sally at home" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">请问，莎莉在家吗</span>?</p>
+<p>Adam: Let’s try another way to ask that.  “Is Sally there?”</p>
+<p>Kirin: <span    color=""   simp="莎莉在吗" trad="莎莉在嗎" py="Shālì zài ma" eng="Is Sally there" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">莎莉在吗</span>? </p>
+<p>Adam: “Yes, this is Sally,” or simply “I am Sally.”</p>
+<p>Kirin: <span    color=""   simp="是，我是莎莉" trad="是，我是莎莉" py="Shì, wǒ shì Shālì" eng="Yes, this is Sally" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">是，我是莎莉</span>.</p>
+<p>Adam: I’m sorry, Sally is not here.</p>
+<p>Kirin: <span    color=""   simp="对不起，莎莉不在" trad="對不起，莎莉不在" py="Duìbuqǐ, Shālì bú zài" eng="I&#8217;m sorry, Sally isn&#8217;t here" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">对不起，莎莉不在</span>.</p>
+<p>Adam: Do you have any free time?</p>
+<p>Kirin: <span    color=""   simp="你有空吗" trad="你有空嗎" py="Nǐ yǒu kòng ma" eng="Do you have any free time" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">你有空吗</span>?</p>
+<p>Adam: Introduce.</p>
+<p>Kirin: <span    color=""   simp="介绍" trad="介紹" py="Jièshào" eng="To introduce" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">介绍</span>.</p>
+<p>Adam: “I want to introduce someone to you”.  Literally: “I want introduce give you to know.”</p>
+<p>Kirin: <span    color=""   simp="我想要介绍给你认识" trad="我想要介紹給你認識" py="Wǒ xiǎng yào jièshào gěi nǐ rènshì" eng="I want to introduce someone to you" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我想要介绍给你认识</span>. </p>
+<p>Adam: My girlfriend.  Literally: “My female friend.”</p>
+<p>Kirin: <span    color=""   simp="我的女朋友" trad="我的女朋友" py="Wǒde nǚpéngyǒu" eng="My girlfriend" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我的女朋友</span>.</p>
+<p>Adam: Of course that’s okay.</p>
+<p>Kirin: <span    color=""   simp="当然好啊" trad="當然好啊" py="Dāngrán hǎo a" eng="Of course that’s okay" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">当然好啊</span>.</p>
+<p>Adam: What’s your name?</p>
+<p>Kirin: <span    color=""   simp="你叫什么名字" trad="你叫什麼名字" py="Nǐ jiào shénme míngzi" eng="What&#8217;s your name" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">你叫什么名字</span>?</p>
+<p>Adam: “My name is Adam.” Now again, let’s use the Chinese equivalent to Adam which is: </p>
+<p>Kirin: <span    color=""   simp="亚当" trad="亞當" py="Yǎdāng" eng="Adam" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">亚当</span>. </p>
+<p>Adam: So again, “My name is Adam” or literally, “I am called Adam.”</p>
+<p>Kirin: <span    color=""   simp="我叫亚当" trad="我叫亞當" py="Wǒ jiào Yǎdāng" eng="My name is Adam" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我叫亚当</span>.</p>
+<p>Adam: Let’s try another way to say this, literally, “My name is Adam.”</p>
+<p>Kirin: <span    color=""   simp="我的名字是亚当" trad="我的名字是亞當" py="Wǒde míngzi shì Yǎdāng" eng="My name is Adam" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我的名字是亚当</span>.</p>
+<p>Adam: What is the verb “can” or “able to”?</p>
+<p>Kirin: <span    color=""   simp="可以" trad="可以" py="Kěyǐ" eng="can / to be able to" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">可以</span>.</p>
+<p>Adam: We can go.</p>
+<p>Kirin: <span    color=""   simp="我们可以去" trad="我們可以去" py="Wǒmen kěyǐ qù" eng="We can go" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我们可以去</span>.</p>
+<p>Adam: New.</p>
+<p>Kirin: <span    color=""   simp="新的" trad="新的" py="Xīnde" eng="new" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">新的</span>.</p>
+<p>Adam: Old.</p>
+<p>Kirin: <span    color=""   simp="旧的" trad="舊的" py="Jiùde" eng="old" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">旧的</span>.</p>
+<p>Adam: French restaurant.</p>
+<p>Kirin: <span    color=""   simp="法国餐厅" trad="法國餐廳" py="Fǎguó cāntīng" eng="French restaurant" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">法国餐厅</span>.</p>
+<p>Adam: “Is that okay?”  Literally: Okay, not okay.</p>
+<p>Kirin: <span    color=""   simp="好不好" trad="好不好" py="Hǎo bù hǎo" eng="Is that okay" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">好不好</span>?</p>
+<p>Adam: What time is it right now?</p>
+<p>Kirin: <span    color=""   simp="现在几点" trad="現在幾點" py="Xiànzài jǐ diǎn" eng="What time is it now" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">现在几点</span>?</p>
+<p>Adam: Tomorrow, at half past five p.m.</p>
+<p>Kirin: <span    color=""   simp="明天下午五点半" trad="明天下午五點半" py="Míngtiān xiàwǔ wǔ diǎn bàn" eng="Tomorrow at 530 pm" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">明天下午五点半</span>.</p>
+<p>Adam: How about today?</p>
+<p>Kirin: <span    color=""   simp="今天怎么样" trad="今天怎麼樣" py="Jīntiān zěnme yàng" eng="How about today" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">今天怎么样</span>?</p>
+<p>Adam: How is the weather today?</p>
+<p>Kirin: <span    color=""   simp="今天的天气怎么样" trad="今天的天氣怎麼樣" py="Jīntiān de tiānqì zěnme yàng" eng="How is the weather today" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">今天的天气怎么样</span>?</p>
+<p>Adam: See you tomorrow.</p>
+<p>Kirin: <span    color=""   simp="明天见" trad="明天見" py="Míngtiān jiàn" eng="See you tomorrow" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">明天见</span>.</p>
+<p>Adam: So, hopefully, you were able to get most of those.  Let’s listen to the conversation again.</p>
+<p>Yann: <span    color=""   simp="喂" trad="喂" py="Wéi" eng="Hello (on a telephone)" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">喂</span>?<br />
+Cindy: <span    color=""   simp="凯文在家吗" trad="凱文在家嗎" py="Kǎiwén zài jiā ma" eng="Is Kevin at home" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">凯文在家吗</span>?<br />
+Yann: <span    color=""   simp="我是" trad="我是" py="Wǒ shì" eng="This is him" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我是</span>.<br />
+Cindy: <span    color=""   simp="你明天有空吗" trad="你明天有空嗎" py="Nǐ míngtiān yǒu kòng ma" eng="Do you have any free time tomorrow" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">你明天有空吗</span>?  <span    color=""   simp="我想要介绍我的男朋友给你认识" trad="我想要介紹我的男朋友給你認識" py="Wǒ xiǎng yào jièshào wǒde nánpéngyǒu gěi nǐ rènshì" eng="I want to introduce my boyfriend to you" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我想要介绍我的男朋友给你认识</span>.<br />
+Yann:  <span    color=""   simp="当然好啊" trad="當然好啊" py="Dāngrán hǎo a" eng="Of course that’s okay" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">当然好啊</span>.  <span    color=""   simp="他叫什么名字" trad="他叫什麼名字" py="Tā jiào shénme míngzi" eng="What&#8217;s his name" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">他叫什么名字</span>?<br />
+Cindy: <span    color=""   simp="他叫大卫" trad="他叫大衛" py="Tā jiào Dàwèi" eng="His name is David" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">他叫大卫</span>.  <span    color=""   simp="那我们去那家新的日本餐厅吃饭" trad="那我們去那家新的日本餐廳吃飯" py="Nà wǒmen qù nà jiā xīnde Rìběn cāntīng chīfàn" eng="Then let’s go eat at that Japanese restaurant" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">那我们去那家新的日本餐厅吃饭</span>.  <span    color=""   simp="好不好" trad="好不好" py="Hǎo bù hǎo" eng="Is that okay" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">好不好</span>?<br />
+Yann: <span    color=""   simp="好啊" trad="好啊" py="Hǎo a" eng="Okay" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">好啊</span>.  <span    color=""   simp="几点" trad="幾點" py="Jǐ diǎn" eng="What time" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">几点</span>?<br />
+Cindy: <span    color=""   simp="下午两点怎么样" trad="下午兩點怎麼樣" py="Xiàwǔ liǎng diǎn zěnme yàng" eng="How about at 2 pm" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">下午两点怎么样</span>?<br />
+Yann: <span    color=""   simp="可以" trad="可以" py="Kěyǐ" eng="Okay" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">可以</span>.  <span    color=""   simp="明天见" trad="明天見" py="Míngtiān jiàn" eng="See you tomorrow" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">明天见</span>.</p>
+<p>Adam: Great.  Now by request we’re going to add another dialogue review to today’s lesson.  So here it is.    </p>
+<p>Cindy: <span    color=""   simp="这个衣服很可爱" trad="這個衣服很可愛" py="Zhè ge yīfú hěn kěài" eng="These clothes are very cute" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">这个衣服很可爱</span>.<br />
+Yann: <span    color=""   simp="你想要买吗" trad="你想要買嗎" py="Nǐ xiǎng yào mǎi ma" eng="Would you like to buy them" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">你想要买吗</span>?<br />
+Cindy:  <span    color=""   simp="不想" trad="不想" py="Bù xiǎng" eng="I don&#8217;t think so" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">不想</span>.  <span    color=""   simp="太贵了" trad="太貴了" py="Tài guì le" eng="It&#8217;s too expensive" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">太贵了</span>!<br />
+Yann: <span    color=""   simp="那个多少钱" trad="那個多少錢" py="Nàge duō shǎo qián" eng="How much is it" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">那个多少钱</span>?<br />
+Cindy: <span    color=""   simp="这个一千三百块" trad="這個一千三百塊" py="Zhège yī qiān sān bǎi kuài" eng="This one is $1300 dollars" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">这个一千三百块</span>.<br />
+Yann: <span    color=""   simp="对，太贵了" trad="對，太貴了" py="Duì, tài guì le" eng="You&#8217;re right, it&#8217;s too expensive" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">对，太贵了</span>.  <span    color=""   simp="你应该要找比较便宜一点的" trad="你應該要找比較便宜一點的" py="Nǐ yīnggāi yào zhǎo bǐjiào piányí yīdiǎn de" eng="You should find something a little cheaper" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">你应该要找比较便宜一点的</span>.<br />
+Cindy: <span    color=""   simp="那么，这个裤子呢" trad="那麼，這個褲子呢" py="Nàme, zhège kùzi ne" eng="How about these pants" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">那么，这个裤子呢</span>?<br />
+Yann: <span    color=""   simp="我觉得不好看" trad="我覺得不好看" py="Wǒ juéde bù hǎo kàn" eng="I don&#8217;t think they look very good" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我觉得不好看</span>.<br />
+Cindy: <span    color=""   simp="为什么" trad="為什麼" py="Wèi shénme" eng="Why not" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">为什么</span>?<br />
+Yann: <span    color=""   simp="因为我不喜欢它的颜色" trad="因為我不喜歡它的顏色" py="Yīnwèi wǒ bù xǐhuān tāde yánsè" eng="Because I don&#8217;t like their color" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">因为我不喜欢它的颜色</span>.</p>
+<p>Adam: So, let’s see how much of this you understood.  Translate the following into Chinese before listening to the answer.</p>
+<p>This one.</p>
+<p>Kirin: <span    color=""   simp="这个" trad="這個" py="Zhège" eng="This one" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">这个</span>.</p>
+<p>Adam: Very cute.</p>
+<p>Kirin: <span    color=""   simp="很可爱" trad="很可愛" py="Hěn kěài" eng="Very cute" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">很可爱</span>.</p>
+<p>Adam: Clothing or clothes.</p>
+<p>Kirin: <span    color=""   simp="衣服" trad="衣服" py="Yīfú" eng="Clothes" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">衣服</span>.</p>
+<p>Adam: That coat is very cute.</p>
+<p>Kirin: <span    color=""   simp="那个外套很可爱" trad="那個外套很可愛" py="Nàge wàitào hěn kěài" eng="That coat is very cute" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">那个外套很可爱</span>.</p>
+<p>Adam: Would you like to buy it?</p>
+<p>Kirin: <span    color=""   simp="你想要买吗" trad="你想要買嗎" py="Nǐ xiǎng yào mǎi ma" eng="Would you like to buy it" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">你想要买吗</span>?</p>
+<p>Adam: “I don’t think so.”  Or literally “Don’t think so.”</p>
+<p>Kirin: <span    color=""   simp="不想" trad="不想" py="Bù xiǎng" eng="I don&#8217;t think so" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">不想</span>.</p>
+<p>Adam: It’s too expensive.</p>
+<p>Kirin: <span    color=""   simp="太贵了" trad="太貴了" py="Tài guì le" eng="Too expensive" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">太贵了</span>.</p>
+<p>Adam: It’s very cheap.</p>
+<p>Kirin: <span    color=""   simp="很便宜" trad="很便宜" py="Hěn piányí" eng="Very cheap" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">很便宜</span>.</p>
+<p>Adam: How much is this one?</p>
+<p>Kirin: <span    color=""   simp="这个多少钱" trad="這個多少錢" py="Zhège duō shǎo qián" eng="How much is this one" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">这个多少钱</span>?</p>
+<p>Adam: This one is 563 dollars.  Use <span    color=""   simp="元" trad="元" py="yuán" eng="dollars" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">元</span>.</p>
+<p>Kirin: <span    color=""   simp="这个五百六十三元" trad="這個五百六十三元" py="Zhège wǔ bǎi liù shí sān yuán" eng="This one is 563 dollars" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">这个五百六十三元</span>.</p>
+<p>Adam: That’s right.</p>
+<p>Kirin: <span    color=""   simp="对" trad="對" py="Duì" eng="That&#8217;s right" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">对</span>.</p>
+<p>Adam: You should find.</p>
+<p>Kirin: <span    color=""   simp="你应该要找" trad="你應該要找" py="Nǐ yīnggāi yào zhǎo" eng="You should find" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">你应该要找</span>.</p>
+<p>Adam: A little bigger.</p>
+<p>Kirin: <span    color=""   simp="比较大一点的" trad="比較大一點的" py="Bǐjiào dà yīdiǎn de" eng="A little bigger" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">比较大一点的</span>.</p>
+<p>Adam: A little smaller.</p>
+<p>Kirin: <span    color=""   simp="比较小一点的" trad="比較小一點的" py="Bǐjiào xiǎo yīdiǎn de" eng="A little smaller" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">比较小一点的</span>.</p>
+<p>Adam: In that case.</p>
+<p>Kirin: <span    color=""   simp="那么" trad="那麼" py="Nàme" eng="In that case" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">那么</span>.</p>
+<p>Adam: How about that one?</p>
+<p>Kirin: <span    color=""   simp="那个呢" trad="那個呢" py="Nàge ne" eng="How about that one" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">那个呢</span>?</p>
+<p>Adam: I think it looks great.</p>
+<p>Kirin: <span    color=""   simp="我觉得很好看" trad="我覺得很好看" py="Wǒ juéde hěn hǎo kàn" eng="I think it looks great" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我觉得很好看</span>.</p>
+<p>Adam: Why?</p>
+<p>Kirin: <span    color=""   simp="为什么" trad="為什麼" py="Wèi shénme" eng="Why" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">为什么</span>?</p>
+<p>Adam: Because.</p>
+<p>Kirin: <span    color=""   simp="因为" trad="因為" py="Yīnwèi" eng="Because" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">因为</span>.</p>
+<p>Adam: I really like this color.</p>
+<p>Kirin: <span    color=""   simp="我很喜欢这个颜色" trad="我很喜歡這個顏色" py="Wǒ hěn xǐhuān zhège yánsè" eng="I really like this color" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我很喜欢这个颜色</span>.</p>
+<p>Adam: So, hopefully, you were able to get most of those.  Let’s listen to this dialogue one more time.</p>
+<p>Cindy: <span    color=""   simp="这个衣服很可爱" trad="這個衣服很可愛" py="Zhè ge yīfú hěn kěài" eng="These clothes are very cute" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">这个衣服很可爱</span>.<br />
+Yann: <span    color=""   simp="你想要买吗" trad="你想要買嗎" py="Nǐ xiǎng yào mǎi ma" eng="Would you like to buy them" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">你想要买吗</span>?<br />
+Cindy:  <span    color=""   simp="不想" trad="不想" py="Bù xiǎng" eng="I don&#8217;t think so" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">不想</span>.  <span    color=""   simp="太贵了" trad="太貴了" py="Tài guì le" eng="It&#8217;s too expensive" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">太贵了</span>!<br />
+Yann: <span    color=""   simp="那个多少钱" trad="那個多少錢" py="Nàge duō shǎo qián" eng="How much is it" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">那个多少钱</span>?<br />
+Cindy: <span    color=""   simp="这个一千三百块" trad="這個一千三百塊" py="Zhège yī qiān sān bǎi kuài" eng="This one is $1300 dollars" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">这个一千三百块</span>.<br />
+Yann: <span    color=""   simp="对，太贵了" trad="對，太貴了" py="Duì, tài guì le" eng="You&#8217;re right, it&#8217;s too expensive" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">对，太贵了</span>.  <span    color=""   simp="你应该要找比较便宜一点的" trad="你應該要找比較便宜一點的" py="Nǐ yīnggāi yào zhǎo bǐjiào piányí yīdiǎn de" eng="You should find something a little cheaper" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">你应该要找比较便宜一点的</span>.<br />
+Cindy: <span    color=""   simp="那么，这个裤子呢" trad="那麼，這個褲子呢" py="Nàme, zhège kùzi ne" eng="How about these pants" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">那么，这个裤子呢</span>?<br />
+Yann: <span    color=""   simp="我觉得不好看" trad="我覺得不好看" py="Wǒ juéde bù hǎo kàn" eng="I don&#8217;t think they look very good" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">我觉得不好看</span>.<br />
+Cindy: <span    color=""   simp="为什么" trad="為什麼" py="Wèi shénme" eng="Why not" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">为什么</span>?<br />
+Yann: <span    color=""   simp="因为我不喜欢它的颜色" trad="因為我不喜歡它的顏色" py="Yīnwèi wǒ bù xǐhuān tāde yánsè" eng="Because I don&#8217;t like their color" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">因为我不喜欢它的颜色</span>.</p>
+<p>Adam: So there we have it, a quick review of some of the vocabulary we learned in unit one.  We have one more review lesson like this planned before we wrap up Unit One.  And as always, for more translation and review tools, consult the Premium section of our website ChineseLearnOnline.com.</p>
+<p>Kirin: <span    color=""   simp="再见" trad="再見" py="Zàijiàn" eng="Goodbye" class="has-tip_removed lesson_language lesson_translate lesson_translate_parts ">再见</span>.</p>
+<p><!--/protectcontent--></p>
+
+
+
+
+
+
+
+
+             <a href="http://www.chineselearnonline.com/lessoncontent/lesson-058-complete/" class="button prev-lesson left">Previous Lesson</a>
+             <a href="http://www.chineselearnonline.com/lessoncontent/lesson-060-complete/" class="button next-lesson right">Next Lesson</a>
+      <hr>
+
+      <ul class="button-group radius left">
+
+  <li>
+    <a href="
+http://www.chineselearnonline.com/lessoncontent/lesson-059-complete/" class="button secondary
+alert">
+  Transcript
+  </a>
+  </li>
+
+  <li>
+    <a href="
+http://www.chineselearnonline.com/lessoncontent/lesson-059-vocabulary/" class="button secondary
+">
+  Vocabulary
+  </a>
+  </li>
+
+  <li>
+    <a href="
+http://www.chineselearnonline.com/activity/lesson/59" class="button secondary
+">
+  Activity
+  </a>
+  </li>
+
+  <li>
+    <a href="
+http://www.chineselearnonline.com/lessoncontent/lesson-059-notes/" class="button secondary
+">
+  Notes
+  </a>
+  </li>
+
+  <li>
+    <a href="
+http://www.chineselearnonline.com/lessoncontent/lesson-059-hints-and-tips/" class="button secondary
+">
+  Hints & Tips
+  </a>
+  </li>
+
+
+
+  <li>
+    <a href="
+http://www.chineselearnonline.com/lessoncontent/clo_059-unit-one-review-ii/" class="button secondary
+">
+    Comments (6)
+    </a>
+  </li>
+  </ul>
+
+      </div>
+
+    	  <footer>
+								<p></p>
+			</footer>
+
+
+		</article>
+
+
+
+
+	</div>
+  <div class="sidebar-right small-12 large-3 columns">
+ 		<article id="am4login-2" class="row widget widget_text"><div class="small-12 columns"><h3>Your Subscriptions</h3><div><b>Welcome Michael Joyner!</b></div>
+        <ul>
+            </ul>
+
+
+    <ul>
+                    <li><a href="http://www.chineselearnonline.com/amember/signup">Renew Subscription</a></li>
+
+                    <li><a href="http://www.chineselearnonline.com/amember/member/payment-history">Payment History</a></li>
+
+                    <li><a href="http://www.chineselearnonline.com/amember/profile">Edit Profile</a></li>
+            </ul>
+
+    <ul>
+        <li><a href="http://www.chineselearnonline.com/amember/logout">Logout</a></li>     </ul>
+</div></article><article id="current_progress-2" class="row widget widget_current_progress"><div class="small-12 columns">
+</div></article><article id="current_status-2" class="row widget widget_current_status"><div class="small-12 columns">
+<!-- subscription expired -->
+
+
+<!-- demo user only -->
+
+
+</div></article><article id="quick_access-2" class="row widget widget_quick_access"><div class="small-12 columns"><h3>Quick Access</h3><div class="panel radius">
+<form name="quickaccess" method="POST" id="lesson_quickaccess_form">
+    <div class="row">
+      <div class="large-12 columns">
+        <input type="hidden" name="quickaccess_submit" value="Y" /> Highest Lesson
+		   <a href="http://www.chineselearnonline.com/lessoncontent/lesson-059-vocabulary/">59</a>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-12 columns">
+        <div class="row collapse">
+          <div class="small-9 columns">
+            <label>Vocabulary
+            <input type="text" placeholder="Enter Lesson #" name="quickaccess_vocab" id="quickaccess_vocab"/></label>
+          </div>
+          <div class="small-3 columns">
+            <input type="submit" value="Go" name="submit_vocab" class="button postfix" id="quickaccess_vocab_submit">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-12 columns">
+        <div class="row collapse">
+          <div class="small-9 columns">
+            <label>Transcript
+            <input type="text" placeholder="Enter Lesson #" name="quickaccess_complete" id="quickaccess_complete"/></label>
+          </div>
+          <div class="small-3 columns">
+            <input type="submit" value="Go" name="submit_complete" class="button postfix" id="quickaccess_complete_submit">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="large-12 columns">
+        <div class="row collapse">
+          <div class="small-9 columns">
+            <label>Wordbank
+            <input type="text" placeholder="Enter search term" name="quickaccess_wordbank" id="lesson_quickaccess_wb_lesson" /></label>
+          </div>
+          <div class="small-3 columns">
+            <input type="button" value="Go" name="submit_wordbank" class="button postfix lesson_qucikaccess_wordbank_go">
+          </div>
+        </div>
+      </div>
+    </div>
+</form>
+</div>
+</div></article><!-- Start Subscribe Sidebar widget -->
+<article id="subscribe" class="row widget widget_subscribe_sidebar"><div class="small-12 columns"><h3>Subscribe</h3><div id="subscribe_sidebar">	<ul id="subscribe_sidebar_list">
+		<li><a href="http://www.chineselearnonline.com/feed/" title="RSS Feed"><img src="http://www.chineselearnonline.com/wp-content/plugins/subscribe-sidebar/feed.png" alt="RSS Feed" /></a><a href="http://www.chineselearnonline.com/feed/" title="RSS Feed">RSS Feed</a></li>
+		<li><a href="https://itunes.apple.com/ca/podcast/learn-chinese-insights-podcast/id1047566833?mt=2" title="Add to iTunes"><img src="http://www.chineselearnonline.com/wp-content/plugins/subscribe-sidebar/itunes_modern.png" alt="Add to iTunes" /></a><a href="https://itunes.apple.com/ca/podcast/learn-chinese-insights-podcast/id1047566833?mt=2" title="Add to iTunes">Add to iTunes</a></li>
+		<li><a href="http://www.google.com/profiles/https://plus.google.com/+Chineselearnonline420/posts" title="Google Profile"><img src="http://www.chineselearnonline.com/wp-content/plugins/subscribe-sidebar/google_profile.png" alt="Google Profile" /></a><a href="http://www.google.com/profiles/https://plus.google.com/+Chineselearnonline420/posts" title="Google Profile">Google Profile</a></li>
+		<li><a href="http://www.facebook.com/pages/https://www.facebook.com/chineselearnonline" title="Facebook Fan Page"><img src="http://www.chineselearnonline.com/wp-content/plugins/subscribe-sidebar/facebook.png" alt="Facebook Fan Page" /></a><a href="http://www.facebook.com/pages/https://www.facebook.com/chineselearnonline" title="Facebook Fan Page">Facebook</a></li>
+	</ul>
+</div></div></article>	<!-- End Subscribe Sidebar widget -->
+<article id="categories-2" class="row widget widget_categories"><div class="small-12 columns"><h3>Categories</h3>		<ul>
+	<li class="cat-item cat-item-80"><a href="http://www.chineselearnonline.com/blog/category/learn-chinese-insights/" >Learn Chinese Insights</a>
+</li>
+	<li class="cat-item cat-item-81"><a href="http://www.chineselearnonline.com/blog/category/podcast/" >Podcast</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.chineselearnonline.com/blog/category/site-update/" >Site Update</a>
+</li>
+		</ul>
+</div></article>  </div>
+</div>
+
+</section>
+<div id="footer">
+  <footer class="row">
+
+          <ul id="menu-menu1-2" class="footer-nav"><li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8651"><a href="#">Member Tools</a>
+<ul class="sub-menu dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8655"><a href="http://www.chineselearnonline.com/flashcards/">Flashcards</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8654"><a href="http://www.chineselearnonline.com/word-bank/">Word Bank</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8653"><a href="http://www.chineselearnonline.com/exercises/">Exercises</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8652"><a href="http://www.chineselearnonline.com/wordgame/">Char Game</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8656"><a href="http://www.chineselearnonline.com/export/">Export</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8658"><a href="http://www.chineselearnonline.com/tone-and-pinyin-practice/">Tone and Pinyin Practice</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8657"><a href="http://www.chineselearnonline.com/one-on-one/">One on One</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8641"><a href="#">Course Outline</a>
+<ul class="sub-menu dropdown">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12484"><a href="http://www.chineselearnonline.com/course-outline">Level 1</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8647"><a href="http://www.chineselearnonline.com/course-outline-level-2/">Level 2</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8646"><a href="http://www.chineselearnonline.com/course-outline-level-3/">Level 3</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8645"><a href="http://www.chineselearnonline.com/course-outline-level-4/">Level 4</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8644"><a href="http://www.chineselearnonline.com/course-outline-level-5/">Level 5</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8643"><a href="http://www.chineselearnonline.com/course-outline-level-6/">Level 6</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8642"><a href="http://www.chineselearnonline.com/course-outline-level-7/">Level 7</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8631"><a href="#">Resources</a>
+<ul class="sub-menu dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8632"><a href="http://www.chineselearnonline.com/apps/">iOS / Android Apps</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8633"><a href="http://www.chineselearnonline.com/feeds/">Bulk Download</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8634"><a href="http://www.chineselearnonline.com/pinyin-conversion-tool/">Pinyin Conversion Tool</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8640"><a href="/blog/category/learn-chinese-insights/">Learning Insights</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12828"><a href="http://www.chineselearnonline.com/blog/category/podcast/">Learning Insights Podcast</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8636"><a href="http://www.readtypechinese.com/">Read and Type Chinese</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8627"><a href="#">How To Use</a>
+<ul class="sub-menu dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8628"><a href="http://www.chineselearnonline.com/how-to-use/">How to Use</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8630"><a href="http://www.chineselearnonline.com/frequently-asked-questions/">Frequently Asked Questions</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8629"><a href="http://www.chineselearnonline.com/teaching-philosophy/">How we teach</a></li>
+</ul>
+</li>
+<li class="divider"></li><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8626"><a href="#">About Us</a>
+<ul class="sub-menu dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8617"><a href="http://www.chineselearnonline.com/about/">About Us</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8621"><a href="http://www.chineselearnonline.com/contact-us/">Contact Us</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8637"><a href="/blog/">Blog</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8638"><a href="/testimonials/">Testimonials</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8619"><a href="http://www.chineselearnonline.com/affiliate/">Affiliate</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-8639"><a href="http://www.chinocastellano.com">Spanish CLO</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8618"><a href="http://www.chineselearnonline.com/privacy-policy/">Privacy Policy</a></li>
+</ul>
+</li>
+</ul>
+    <p>© 2016 ChineseLearnOnline.com. All Rights Reserved.</p>
+      </footer>
+</div>
+<a class="exit-off-canvas"></a>
+		</div>
+</div>
+
+<!--<h2><a href="http://www.chineselearnonline.com/members/5810/">Profile</a></h2>-->
+
+<!--<div class="ask-a-question">
+  <a class="ask-button-close">✖</a>
+  [contact-form-7 404 "Not Found"]  <a class="ask-button margin-zero" href="javascript:;">Ask a question</a>
+</div>-->
+<a class="clicky-container" title="Web Statistics" href="http://clicky.com/66579164"><img alt="Web Statistics" src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
+<script src="//static.getclicky.com/js" type="text/javascript"></script>
+<script type="text/javascript">try{ clicky.init(66579164); }catch(e){}</script>
+<noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66579164ns.gif" /></p></noscript>
+<script type="text/javascript">
+
+$('#subscribe li:nth-of-type(1) a').attr('href', 'http://www.chineselearnonline.com/blog/category/learning-insights/podcast/feed/')
+$('#subscribe li:nth-of-type(3) a').attr('href', 'https://plus.google.com/+Chineselearnonline420/posts')
+$('#subscribe li:nth-of-type(4) a').attr('href', 'https://www.facebook.com/chineselearnonline')
+
+$('.bbpress a:contains("Renew Subscription")').text('My Subscription')
+$('.bbpress a:contains("Payment History")').parent().hide()
+$('.bbpress a:contains("Edit Profile")').parent().html('<a href="http://www.chineselearnonline.com/members/5810/">My Profile</a>')
+$('body:not(.bbpress)').find('a:contains("Edit Profile")').parent().after('<li><a href="http://www.chineselearnonline.com/forums/">Forums</a></li>')
+
+$('.page-template-page-outline a:contains("Payment History")').parent().hide()
+$('.page-template-page-outline a:contains("Edit Profile")').parent().hide()
+
+$('.buddypress #item-nav').before('<ul class="am-tabs sub-nav no-bullet"><li class="subscriptions"><a id="menu-member" href="/amember/member">Subscriptions</a></li><li class="normal"><a id="menu-member" href="/amember/member">Dashboard</a></li><li class="normal"><a id="menu-add-renew" href="/amember/signup">Add/Renew Subscription</a></li><li class="normal"><a id="menu-payment-history" href="/amember/member/payment-history">Payments History</a></li><li class="normal"><a id="menu-profile" href="/amember/profile">Edit Profile</a></li></ul>')
+
+$('.avatar-14').error(function() {
+  $(this).attr('src', 'http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/images/default-50.png')
+})
+
+$('.avatar-20').error(function() {
+  $(this).attr('src', 'http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/images/default-20.png')
+})
+
+$('.avatar-48').error(function() {
+  $(this).attr('src', 'http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/images/default-50.png')
+})
+
+$('.avatar-50').error(function() {
+  $(this).attr('src', 'http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/images/default-50.png')
+})
+
+$('.avatar-80').error(function() {
+  $(this).attr('src', 'http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/images/default-150.png')
+})
+
+$('.avatar-150').error(function() {
+  $(this).attr('src', 'http://www.chineselearnonline.com/wp-content/themes/clo/assets/img/images/default-150.png')
+})
+
+jQuery(document).ready(function($) {
+  var amLogin = $('#am4login-2 div ul:last-of-type li a').text()
+  var amLogin2 = $('#am4login-2 input[value="Login"]').val()
+  if (amLogin === "Logout") {
+    $('a:contains("Forums")').parent().remove()
+  }
+
+  if (!amLogin === "Logout") {
+    $('.off-canvas-list').prepend('<li id="menu-item-8651" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-8651"><a href="http://www.chineselearnonline.com/amember/login">Login</a>')
+  }
+  if (amLogin2 === "Login") {
+    $('.top-bar-container').after('<div class="landing-header sticky" style=""><div class="row"><div class="small-12 large-12 columns" role="main"><a href="http://www.chineselearnonline.com/#row-html1-0" class="button round small">Get your first 10 lessons FREE<\/a><\/div><\/div><\/div>')
+    $('.lesson_lang_switch').removeClass('sticky')
+    $(document.body).trigger("sticky_kit:recalc")
+  }
+
+  $.browser.safari = $.browser.webkit && !window.chrome
+
+  if ($.browser.safari) {
+    //$('.button').css('top', '35px')
+  }
+
+  if (Modernizr.mq('only all and (max-width: 1024px)')) {
+    var data = $("p:contains(Select a word from the box on the right, then choose which sentence blank it belongs to.)");
+    $(data).text('Select a word from the box on the bottom, then choose which sentence blank it belongs to.');
+
+    $('.lesson_lt_char_desc').text('Enable Chinese input on your keyboard, then type out the above characters.')
+    $('#current_status-2').prependTo('.off-canvas-list')
+    $('#am4login-2').prependTo('.off-canvas-list')
+    $('#quick_access-2').prependTo('.off-canvas-list')
+  }
+
+  $('.bbp-breadcrumb-home').text('Main Site')
+})
+
+</script>
+
+
+<!-- Facebook Conversion Code for CLO Ad visit -->
+<script>(function() {
+var _fbq = window._fbq || (window._fbq = []);
+if (!_fbq.loaded) {
+var fbds = document.createElement('script');
+fbds.async = true;
+fbds.src = '//connect.facebook.net/en_US/fbds.js';
+var s = document.getElementsByTagName('script')[0];
+s.parentNode.insertBefore(fbds, s);
+_fbq.loaded = true;
+}
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', '6029420043381', {'value':'0.00','currency':'USD'}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?ev=6029420043381&amp;cd[value]=0.00&amp;cd[currency]=USD&amp;noscript=1" /></noscript>
+
+<div style="height:0;overflow:hidden;" itemscope itemtype="http://schema.org/Product">
+  <span itemprop="name">Chinese Learn Online</span>
+  <div itemprop="aggregateRating"
+    itemscope itemtype="http://schema.org/AggregateRating">
+    <span itemprop="ratingValue">95</span>
+    out of <span itemprop="bestRating">100</span>
+    based on <span itemprop="ratingCount">821</span> user ratings
+  </div>
+</div>
+
+
+<!-- Generated in 1.504 seconds. (186 q) -->
+
+	<script type="text/javascript">
+
+if ( undefined !== window.jQuery ) {
+
+  jQuery( document ).ready(function( $ ) {
+
+		(function( $ ) {
+
+			$(document).foundation();
+
+		})(jQuery);
+
+	})
+}
+
+</script>
+<link rel='stylesheet' id='badgeos-front-css'  href='http://www.chineselearnonline.com/wp-content/plugins/badgeos/css/badgeos-front.css' type='text/css' media='all' />
+<script type='text/javascript'>
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-includes/js/mediaelement/wp-mediaelement.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.chineselearnonline.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.chineselearnonline.com\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-includes/js/thickbox/thickbox.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/badgeos/js/credly-badge-builder.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var badgeos_feedback_buttons = {"ajax_url":"\/wp-admin\/admin-ajax.php","user_id":"5810"};
+var badgeos_feedback_buttons = {"ajax_url":"\/wp-admin\/admin-ajax.php","user_id":"5810"};
+var BadgeosCredlyData = {"ajax_url":"\/wp-admin\/admin-ajax.php","message":"Would you like to display this badge on social networks and add it to your lifelong badge collection?","confirm":"Yes, send to Credly","cancel":"Cancel","share":"Share on Credly!","localized_error":"Error:","errormessage":"Error: Timed out"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/badgeos/js/badgeos-achievements.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/themes/clo/js/foundation.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/bbpress/templates/default/js/editor.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/buddypress/bp-core/js/jquery.caret.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/buddypress/bp-core/js/jquery.atwho.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/buddypress/bp-activity/js/mentions.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-includes/js/comment-reply.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var lesson = {"ajax_url":"http:\/\/www.chineselearnonline.com\/wp-admin\/admin-ajax.php","lesson_mode":"pinyin","mode_simp":"simp","mode_trad":"trad","mode_english":"english","mode_pinyin":"pinyin","wordbankurl":"http:\/\/www.chineselearnonline.com\/word-bank\/","myarticleurl":"http:\/\/www.chineselearnonline.com\/my-article\/","currentlesson":"59","flashcard_showoption":"","flashcard_defaultlesson":"0","siteurl":"http:\/\/www.chineselearnonline.com","uid":"5810"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/lesson_base.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/lesson_base2.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/jquery.tipTip.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/swfobject.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/jquery.swfobject.1-1-1.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/jquery.intlKeyboard.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/trad_chars.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/caret.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/jQuery.print.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-includes/js/jquery/ui/core.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-includes/js/jquery/ui/widget.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-includes/js/jquery/ui/mouse.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-includes/js/jquery/ui/draggable.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/jQuery.chineseIME.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/jquery.hotkeys.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/jquery.jplayer.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/jquery.mb.miniPlayer.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/pinyin.jq.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/jquery.plugin.min.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/clo/js/jquery.countdown.js'></script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/www.chineselearnonline.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://www.chineselearnonline.com/wp-content/plugins/contact-form-7/includes/js/scripts.js'></script>
+
+
+
+
+    <script>
+        window.intercomSettings = {
+            app_id: "kylzzkkn",
+            name: "michael_joyner", // Full name
+            email: "joyner.michael@gmail.com", // Email address
+            created_at: 1448466668 // Signup date as a Unix timestamp
+        };
+    </script>
+    <script>(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/kylzzkkn';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script>
+
+</body>
+</html>
+
+
