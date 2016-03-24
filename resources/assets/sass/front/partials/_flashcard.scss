@@ -1,11 +1,25 @@
 .flashcard {
-  width: 90%;
+  width: 100%;
   max-width: 500px;
   margin: 0 auto;
   font-family: $bodyfont;
   text-align: center;
-  padding-top: 1em;
-  position: relative;
+  position: fixed;
+  top: 70px;
+  padding: 1em 10px 0;
+
+  &.slide-transition {
+    transition: .3s;
+    transform: translate3d(0,0,0);
+  }
+
+  &.slide-enter {
+    transform: translate3d(-500px,0,0);
+  }
+
+  &.slide-leave {
+    transform: translate3d(500px,0,0);
+  }
 
   .flashcard-eng {
     color: $mid_grey;
@@ -37,11 +51,11 @@
   }
 }
 
-.flashcard-viewer.shrink {
-  .flashcard {
-    animation: fadeInAndOut .4s linear 1 forwards;
-  }
-}
+//.flashcard-viewer.shrink {
+//  .flashcard {
+//    animation: fadeInAndOut .4s linear 1 forwards;
+//  }
+//}
 
 @keyframes fadeInAndOut {
   0%  { opacity: 1;}

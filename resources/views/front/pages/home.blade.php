@@ -5,22 +5,29 @@
 @stop
 
 @section('content')
-    <section class="main-section flashcard-viewer" :class="{'shrink': transitioning}">
+    <section class="main-section flashcard-viewer">
         <flashcard :eng="current.eng"
                    :py="current.py"
                    :trad="current.trad"
                    :classification="current.classification.name"
+                   v-show="counter % 2 == 0"
+        ></flashcard>
+        <flashcard :eng="nextinline.eng"
+                   :py="nextinline.py"
+                   :trad="nextinline.trad"
+                   :classification="nextinline.classification.name"
+                   v-show="counter % 2 !== 0"
         ></flashcard>
         <div class="classify-button-container">
-            <div class="classify-btn all" v-on:click="showAll" :class="{'showing': !classification}">Aa</div>
-            <div class="classify-btn vocab" v-on:click="showVocab" :class="{'showing': classification == 'vocab'}">Vv</div>
-            <div class="classify-btn phrase" v-on:click="showPhrases" :class="{'showing': classification == 'phrase'}">Pp</div>
-            <div class="classify-btn sentence" v-on:click="showSentences" :class="{'showing': classification == 'sentence'}">Ss</div>
+            <div class="classify-btn all" v-on:click="showAll" :class="{'showing': !classification}">All</div>
+            <div class="classify-btn vocab" v-on:click="showVocab" :class="{'showing': classification == 'vocab'}">Voc</div>
+            <div class="classify-btn phrase" v-on:click="showPhrases" :class="{'showing': classification == 'phrase'}">Phr</div>
+            <div class="classify-btn sentence" v-on:click="showSentences" :class="{'showing': classification == 'sentence'}">Sen</div>
         </div>
         <button class="next-btn" v-on:click="showNext">Next</button>
     </section>
     <template id="flashcard-template">
-        <div class="flashcard">
+        <div class="flashcard" transition="slide">
             <span class="classification-indicator">@{{ classification }}</span>
             <p class="flashcard-trad">@{{ trad }}</p>
             <p class="flashcard-py">@{{ py }}</p>
@@ -43,6 +50,7 @@
             data: {
                 core_list: [],
                 current_pos: 0,
+                counter: 0,
                 transitioning: false,
                 classification: false,
             },
@@ -51,6 +59,18 @@
                 current: function () {
                     if ((this.list.length) > this.current_pos) {
                         return this.list[this.current_pos];
+                    }
+
+                    return {
+                        eng: '',
+                        py: '',
+                        trad: ''
+                    }
+                },
+
+                nextinline: function() {
+                    if ((this.list.length) > this.current_pos + 1) {
+                        return this.list[this.current_pos + 1];
                     }
 
                     return {
@@ -77,16 +97,12 @@
 
             methods: {
                 showNext: function () {
-                    var self = this;
-                    this.transitioning = true;
-                    window.setTimeout(function() {
-                        self.transitioning = false;
-                    }, 600);
-                    if(this.current_pos >= (this.list.length - 1)) {
+
+                    if(this.current_pos >= (this.list.length - 2)) {
                         return this.current_pos = 0;
                     }
-
-                    this.current_pos++;
+                    this.counter++;
+                    this.current_pos += 2;
                 },
 
                 fetchWords: function () {
