@@ -17,4 +17,33 @@ class Flashcard extends Model
             static::create($item);
         });
     }
+
+    public function classification()
+    {
+        return $this->belongsTo(Classification::class, 'classification_id');
+    }
+
+    public function classifyAs($classification)
+    {
+        if(! $classification instanceof Classification) {
+            $classification = $this->normaliseClassification($classification);
+        }
+
+        $this->classification()->associate($classification);
+        $this->save();
+    }
+
+    public static function classifyBy($qualifies, $classification)
+    {
+        static::whereNull('classification_id')->get()->each(function($flashcard) use ($qualifies, $classification) {
+            if($qualifies($flashcard)) {
+                $flashcard->classifyAs($classification);
+            }
+        });
+    }
+
+    private function normaliseClassification($classification)
+    {
+        return Classification::findOrFail($classification);
+    }
 }

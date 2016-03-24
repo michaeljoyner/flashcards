@@ -11,6 +11,6 @@ class WordsController extends Controller
 {
     public function index()
     {
-        return Flashcard::all()->shuffle()->values();
+        return Flashcard::with('classification')->get()->shuffle()->values();
     }
 }

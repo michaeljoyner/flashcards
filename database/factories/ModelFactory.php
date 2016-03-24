@@ -15,7 +15,24 @@ $factory->define(App\User::class, function (Faker\Generator $faker) {
     return [
         'name' => $faker->name,
         'email' => $faker->email,
-        'password' => bcrypt(str_random(10)),
+        'password' => bcrypt('password'),
         'remember_token' => str_random(10),
     ];
 });
+
+$factory->define(\App\Flashcards\Flashcard::class, function (Faker\Generator $faker) {
+    return [
+        'eng' => $faker->word,
+        'py' => $faker->word,
+        'trad' => 'ㄖㄨㄉ',
+    ];
+});
+
+$factory->define(\App\Flashcards\Classification::class, function (Faker\Generator $faker) {
+    return [
+        'name' => $faker->word,
+        'description' => $faker->sentence
+    ];
+});
+
+

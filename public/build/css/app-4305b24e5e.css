@@ -22,7 +22,9 @@ a, a:visited, a:focus, a:hover {
   max-width: 500px;
   margin: 0 auto;
   font-family: "Source Sans Pro", sans-serif;
-  text-align: center; }
+  text-align: center;
+  padding-top: 1em;
+  position: relative; }
   .flashcard .flashcard-eng {
     color: #8a8a8a;
     font-size: 1.2em;
@@ -36,6 +38,14 @@ a, a:visited, a:focus, a:hover {
     color: #1b0224;
     font-size: 2em;
     font-family: "Noto Sans", sans-serif; }
+  .flashcard .classification-indicator {
+    background: #fb1655;
+    color: white;
+    font-size: 70%;
+    text-transform: uppercase;
+    position: absolute;
+    top: 10px;
+    right: 10px; }
 
 .flashcard-viewer.shrink .flashcard {
   -webkit-animation: fadeInAndOut .4s linear 1 forwards;
@@ -67,7 +77,7 @@ a, a:visited, a:focus, a:hover {
 
 .flashcard-viewer .next-btn {
   position: fixed;
-  bottom: 8vh;
+  bottom: 20px;
   left: 5vw;
   width: 90vw;
   height: 32px;
@@ -82,5 +92,41 @@ a, a:visited, a:focus, a:hover {
   display: block; }
   .flashcard-viewer .next-btn:focus {
     outline: none; }
+
+.flashcard-viewer .classify-button-container {
+  text-align: center;
+  position: fixed;
+  bottom: 70px;
+  width: 100%; }
+
+.flashcard-viewer .classify-btn {
+  width: 50px;
+  height: 50px;
+  margin: 5px;
+  line-height: 50px;
+  display: inline-block;
+  transition: .4s;
+  text-align: center;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 700;
+  font-size: 120%;
+  letter-spacing: 2px;
+  -webkit-transform: scale(0.8);
+  transform: scale(0.8); }
+  .flashcard-viewer .classify-btn.all {
+    border: 2px solid #fb1655;
+    color: #fb1655; }
+  .flashcard-viewer .classify-btn.showing {
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1); }
+  .flashcard-viewer .classify-btn.vocab {
+    border: 2px solid #FFC107;
+    color: #FFC107; }
+  .flashcard-viewer .classify-btn.phrase {
+    border: 2px solid #9C27B0;
+    color: #9C27B0; }
+  .flashcard-viewer .classify-btn.sentence {
+    border: 2px solid #FF5722;
+    color: #FF5722; }
 
 /*# sourceMappingURL=app.css.map */

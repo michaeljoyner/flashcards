@@ -4,6 +4,8 @@
   margin: 0 auto;
   font-family: $bodyfont;
   text-align: center;
+  padding-top: 1em;
+  position: relative;
 
   .flashcard-eng {
     color: $mid_grey;
@@ -22,6 +24,16 @@
     color: $primary_dark;
     font-size: 2em;
     font-family: $zhongfont;
+  }
+
+  .classification-indicator {
+    background: $primary_pink;
+    color: white;
+    font-size: 70%;
+    text-transform: uppercase;
+    position: absolute;
+    top: 10px;
+    right: 10px;
   }
 }
 
